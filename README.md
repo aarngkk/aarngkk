@@ -1,4 +1,4 @@
-## Hi! I'm an aspiring game dev with a fascination for developing games with cool mechanics and strategic gameplay.
+## Hi! I'm an aspiring game dev with a fascination with developing games with cool mechanics and strategic gameplay.
 
 <!--
 **aarngkk/aarngkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
