@@ -1,4 +1,4 @@
-## Hi! I'm an aspiring game dev with a fascination with developing games with cool mechanics and strategic gameplay. Pinned to my profile are the Shakespeare3D and Deadzone repositories, both with Windows playable releases
+## Hi! I'm an aspiring game dev with a fascination with developing games with cool mechanics and strategic gameplay. Pinned to my profile are the repositories of two of my projects, Shakespeare3D and Deadzone, both with Windows playable releases.
 
 <!--
 **aarngkk/aarngkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
