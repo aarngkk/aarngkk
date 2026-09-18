@@ -9,6 +9,12 @@ Though my projects are built in Unity with C#, I am more than happy to explore o
 
 Step into the shoes of a drama director in Shakespeare3D, a virtual staging tool that lets you decide how scenes from Shakespeare's Romeo and Juliet should be acted out. From character positioning, to their actions and expressions, you choose the way the characters perform the play and watch your creation come to life.
 
+### Deadzone
+**[View Repository](https://github.com/aarngkk/Deadzone)** | **[Download Windows Playable Build](https://github.com/aarngkk/Deadzone/releases/tag/v1.0.0)**
+
+<img width="513" height="288" alt="Top Down 2D Shooter" src="https://github.com/user-attachments/assets/2815559a-da25-4127-aa34-b2e30db9f0de" />
+
+Play as a grizzled soldier in this top-down tactical shooter and face off against endless waves of zombies. Try out 4 different weapons, fight off an array of different enemies, and see just how long you can survive against impossible odds.
 
 <!--
 **aarngkk/aarngkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
