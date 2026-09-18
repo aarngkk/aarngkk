@@ -3,8 +3,10 @@ Though my projects are built in Unity with C#, I am more than happy to explore o
 
 ## Explore My Projects
 ### Shakespeare3D
-**[View Repository](https://github.com/aarngkk/Shakespeare3D)** | [Download Windows Playable Build](https://github.com/aarngkk/Shakespeare3D/releases/tag/v1.0.0)
+**[View Repository](https://github.com/aarngkk/Shakespeare3D)** | **[Download Windows Playable Build](https://github.com/aarngkk/Shakespeare3D/releases/tag/v1.0.0)**
+
 <img width="513" height="288" alt="Shakespeare3D Game" src="https://github.com/user-attachments/assets/42a61c81-3a29-4b0a-ab05-3c8fc9018fb4" />
+
 Step into the shoes of a drama director in Shakespeare3D, a virtual staging tool that lets you decide how scenes from Shakespeare's Romeo and Juliet should be acted out. From character positioning, to their actions and expressions, you choose the way the characters perform the play and watch your creation come to life.
 
 
