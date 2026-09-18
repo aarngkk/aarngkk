@@ -1,5 +1,13 @@
-## Hi! I'm an aspiring game dev with a fascination with developing games with cool mechanics and strategic gameplay. Pinned to my profile are the repositories of two of my projects, Shakespeare3D and Deadzone, both with Windows playable releases.
-I am also an avid Dungeons & Dragons player, mainly as the dungeon master of two ongoing campaigns and a few one-shot adventures in the past. As a dungeon master, I'm constantly looking for ways to make encounters more tactical and dynamic, whether that's through environmental design or making use of more diverse enemies. 
+## Hi! I'm an aspiring game developer with a strong foundation in C#, and a fascination for developing games with interesting mechanics and strategic gameplay. Pinned to my profile are the repositories of two of my projects, Shakespeare3D and Deadzone, both with Windows playable releases.
+Though my projects are built in Unity with C#, I am more than happy to explore other programming languages or architectures to develop my game programming skills. I am also an avid Dungeons & Dragons player, mainly as the dungeon master of two ongoing campaigns and a few one-shot adventures in the past. As a dungeon master, I'm constantly looking for ways to make encounters more tactical and dynamic, whether that's through environmental design, incorporating new mechanics, or making use of more diverse enemies. I also particularly enjoy playing turn-based tactical role-playing games, namely Baldur's Gate 3 and Solasta: Crown of the Magister, occasionally taking elements from either game as inspiration for the games I develop as well as for my D&D campaigns. My hobby and passion in role-playing games directly corresponds to my goal of developing games that not only include fun mechanics, but also reward the player for thinking critically when faced with a difficult situation. 
+
+## Explore My Projects
+### Shakespeare3D
+**[View Repository](https://github.com/aarngkk/Shakespeare3D)** | [Download Windows Playable Build](https://github.com/aarngkk/Shakespeare3D/releases/tag/v1.0.0)
+<img width="513" height="288" alt="Shakespeare3D Game" src="https://github.com/user-attachments/assets/42a61c81-3a29-4b0a-ab05-3c8fc9018fb4" />
+Step into the shoes of a drama director in Shakespeare3D, a virtual staging tool that lets you decide how scenes from Shakespeare's Romeo and Juliet should be acted out. From character positioning, to their actions and expressions, you choose the way the characters perform the play and watch your creation come to life.
+
+
 <!--
 **aarngkk/aarngkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
