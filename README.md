@@ -1,4 +1,4 @@
-# Hi! I'm an aspiring game developer with a strong foundation in C#, and a fascination for developing games with interesting mechanics and fun gameplay.
+# Hi! I'm an aspiring software developer with a strong foundation in C#, and a fascination for developing games with interesting mechanics and fun gameplay.
 
 ## Explore My Projects
 ### Shakespeare3D
